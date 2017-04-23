@@ -1,0 +1,4 @@
+				cout<<"t_25="<<t_25<<endl;
+				cout<<"g="<<g<<endl;
+				cout<<"k="<<k<<endl;
+				cout<<"sqrt(g/k)"<<sqrt(g/k)<<endl;

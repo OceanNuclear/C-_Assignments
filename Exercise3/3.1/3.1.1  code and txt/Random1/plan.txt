@@ -1,0 +1,21 @@
+1. save as txt
+2. plot on excel
+3. Repeat 3 times with rand seed
+4. Plot all four in excel.
+5. Calculate X_RMS and compare
+6. Write into report
+___
+7. Modify code(x1M) and save separately.
+8. Plot on a historgram.
+9. Plot theoretical historgram using Excel.
+10.(Print out)
+11.
+12.
+
+Compressed version of 3.1.1 is
+if(zscale*double(iran=IM*iran+IC)<0.5)sum++
+
+If sum is 58 steps, total = 58-100+58.
+If sum is x
+
+Is there bin 0-201 if I declare bin [201]?
